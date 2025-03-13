@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚[발표 자료]()
+- 📚[발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/Week_1/Euron%20ML%201%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20-%20%ED%95%A9%EB%B3%B8.pdf)
 - 발표자: 1팀(김예나, 유연, 장인서)
 - 파머완 1장. 파이썬 기반의 머신러닝과 생태계 이해
   - 머신러닝의 개념
@@ -35,3 +35,6 @@
   
 * 복습과제
   - 제출 x
+
+## 💚 우수 과제
+- [🌟Week1_예습과제_고은비](https://github.com/eeeunbiiii/8th-ML/blob/Week_1/Week1_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B3%A0%EC%9D%80%EB%B9%84.pdf)
