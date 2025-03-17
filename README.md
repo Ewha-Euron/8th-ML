@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚[발표 자료]()
+- 📚[발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/be3f0c1af52db9a37bb54a7f4edeee015f6b3c08/8%EA%B8%B0_ML_Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(고은비, 장서연, 백재은)
 - 파머완 2장. 사이킷런으로 시작하는 머신러닝
   - 사이킷런 소개/특징
