@@ -44,3 +44,7 @@
   - 라벨: 복습과제
   - branch: Week_1
   - **3월 17일 23:59**까지 제출합니다.
+
+## 💚 우수과제
+- [Week2_예습과제_김예나](https://github.com/rladPsks/8th-ML/blob/Week_2/Week2_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EC%98%88%EB%82%98.pdf)
+- [Week2_예습과제_최혜윤](https://github.com/hyeyoon04/8th-ML/blob/Week_2/Week2_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%ED%98%9C%EC%9C%A4.pdf)
