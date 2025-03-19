@@ -22,10 +22,10 @@
   (시간이 된다면 아래 내용을 미리 공부하고 오시면 좋습니다.)
   
   1. 배깅(bagging, bootstrap aggregating)
-     - [핸즈온 머신러닝 7.2장, 7.3장](https://drive.google.com/file/d/1lSnSjtiTPrrbQFlieGxgL3D72BK3ZJqG/view?usp=drive_link)
+     - [핸즈온 머신러닝 7.2장, 7.3장](https://drive.google.com/file/d/12NzsMR9dE9KJyGjsQtglBOZyLSdMshn2/view?usp=drive_link)
   2. 서포트 벡터 머신(SVM)
-     - [핸즈온 머신러닝 5.1, 5.2장](https://drive.google.com/file/d/1JigLig3S_6ahbL0J8aa8lh302TfJLSSu/view?usp=drive_link)  
-※ 추가 교재 pdf는 [Euron 교재 구글 드라이브](https://drive.google.com/drive/folders/1JRpZBnPlPtYCStoUR9iCCW9u-OMlGXV8?usp=sharing) 내에 있습니다. 
+     - [핸즈온 머신러닝 5.1, 5.2장](https://drive.google.com/file/d/1y_Je872UGCoKWmrdIvGB2ncAiohrGu0b/view?usp=drive_link)  
+※ 추가 교재 pdf는 [Euron 교재 구글 드라이브](https://drive.google.com/drive/u/0/folders/1atLeo-3Px89_IEHbdnnni3wtN4rpM4vy) 내에 있습니다. 
 
 
 ### 📍 2주차 복습과제
