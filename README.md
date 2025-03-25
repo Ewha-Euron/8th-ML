@@ -1,6 +1,6 @@
 # 8th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/37af5da9fed96506ad3a055c07bfeb14bf43a1b5/8%EA%B8%B0_ML_Week3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 3팀(진웨이얀, 김서연, 박린)
 - 파머완 4장. 분류 - Part 1(4.1 ~ 4.4장)
   - 분류 개요
