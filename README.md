@@ -48,3 +48,4 @@
 ## 💚 우수과제
 - [Week2_예습과제_김예나](https://github.com/rladPsks/8th-ML/blob/Week_2/Week2_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EC%98%88%EB%82%98.pdf)
 - [Week2_예습과제_최혜윤](https://github.com/hyeyoon04/8th-ML/blob/Week_2/Week2_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%ED%98%9C%EC%9C%A4.pdf)
+- [Week2_복습과제_김태영](https://github.com/tykim0O0/Euron_8th-ML/blob/Week_2/Week2_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)
