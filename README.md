@@ -1,6 +1,6 @@
 # 8th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/e2474839612977fd002e8ca94163768c0ae31f1e/8%EA%B8%B0_ML_Week4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 4팀(최혜윤, 김태영, 정윤지)
 - 파머완 4장. 분류 - Part 2(4.5장 ~ 4.8장, 4.10 ~ 4.11장)
   - 부스팅 계열
