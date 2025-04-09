@@ -54,3 +54,4 @@
 ## 💚 우수과제
 - [Week3_예습과제_장인서](https://github.com/jis-25/8th-ML/blob/Week_3/Week3_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%9E%A5%EC%9D%B8%EC%84%9C.pdf)
 - [Week3_예습과제_최혜윤](https://github.com/hyeyoon04/8th-ML/blob/Week_3/Week3_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EC%B5%9C%ED%98%9C%EC%9C%A4.pdf)
+- [Week3_복습과제_김태영](https://github.com/tykim0O0/Euron_8th-ML/blob/Week_3/Week3_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)
