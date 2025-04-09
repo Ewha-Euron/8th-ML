@@ -40,3 +40,7 @@
   - 라벨: 복습과제
   - branch: Week_3
   - **3월 31일 23:59**까지 제출합니다.
+
+## 💚 우수과제
+- [Week4_예습과제_김예나](https://github.com/rladPsks/8th-ML/blob/Week_4/Week4_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EC%98%88%EB%82%98.pdf)
+- [Week4_예습과제_고은비](https://github.com/eeeunbiiii/8th-ML/blob/Week_4/Week4_%EC%98%88%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B3%A0%EC%9D%80%EB%B9%84.pdf)
