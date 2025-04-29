@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/bfba7146c441adf751acab8092caf2183783e561/8%EA%B8%B0_ML_Week8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(고은비, 장서연, 백재은)
 - 파머완 5장. 회귀(5.1장 ~ 5.8장)
   - 회귀 개요
