@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/a08e5ed78fcd6ef3cfaf578f4ca02e127d84058b/8%EA%B8%B0_ML_Week10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 4팀(최혜윤, 김태영, 정윤지)
 - 파머완 6장. 차원축소(6.1 ~ 6.5장)
   - PCA
