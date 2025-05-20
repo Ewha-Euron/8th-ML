@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/9e20699e385c073d6438bd639140c8df2b09aa89/8%EA%B8%B0_ML_Week11_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(김예나, 유연, 장인서)
 - 파머완 7장. 군집화(7.1 ~ 7.6장)
   - KMeans
