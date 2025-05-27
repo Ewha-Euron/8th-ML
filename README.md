@@ -1,7 +1,7 @@
 # 8th-ML
 
 ## 📢 발표 안내
-- 📚 [발표 자료]()
+- 📚 [발표 자료](https://github.com/Ewha-Euron/8th-ML/blob/1bb61cb4fafbf5134df06546c03c04d08b4fc41d/8%EA%B8%B0_ML_Week12_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(고은비, 장서연, 백재은)
 - 파머완 8장. 텍스트 분석(8.1 ~ 8.3, 8.5장)
   - 텍스트 분석 이해
